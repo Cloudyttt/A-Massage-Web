@@ -1,0 +1,167 @@
+{
+	"FAQ": [{	
+			"title": "How does Mobile Massage work?",
+			"content": "Mobile Massage allows you to order a five-star massage to your home,hotel,office,or event in as an hour.We match your massage request with a vetted, certified massage therapist available in your area at the specified time. At your appointment time, atherapist will arrive at your door with massage table, fresh linens, lotions, oils, and music to ensure a relaxing massage. All you have to do is sit back, relax, and enjoy your massage."
+		}, {
+			"title": "What types of services are offered by Mobole massages?",
+			"content": "Mobile massages currently offers deep tissue, swedish, sports, and prenatal massage. Any of these modalities can be performed as a couples massage, either with two massage therapists performing simultaneous massag or one therapists performing massage one after another. Soothe also offers chair and table massage delivered to your office or event with mobile massages at work and mabila massages events."
+		}, {
+			"title": "How do I pick a therapist?",
+			"content": "We will match you with the highes to choose a male or female haogu y massage herat avallable at the time specifed. you have the optior therapist that ist if you have a preference, but are not able to select the exact therapist that you'd like."
+		}, {
+			"title": "How does Mobile Massage vet the therapists in its network?",
+			"content": "We will match you with the highes to choose a male or female haogu y massage herat avallable at the time specifed. you have the optior therapist that ist if you have a preference, but are not able to select the exact therapist that you'd like."
+		}, {
+			"title": "Can I rebook with the same therapist?",
+			"content": "Yes, absolutely after your first massage with a mobile massages massage therapist. You will be given the option to re-book with the same therapist. Keep in mind, However, we cannot guarantee that the same therapist will be available at the time you request."
+		}, {
+			"title": "Can I book a massage directly with a theapist instead of through Mobile massage?",
+			"content": "Mobile Massage allows you to order a five-star massage to your home,hotel,office,or event in as an hour.We match your massage request with a vetted, certified massage therapist available in your area at the specified time. At your appointment time, atherapist will arrive at your door with massage table, fresh linens, lotions, oils, and music to ensure a relaxing massage. All you have to do is sit back, relax, and enjoy your massage."
+		}, {
+			"title": "How much clothing should I remove?",
+			"content": "Feel free to undress to your level of comfort. If you d prefer to leave on undergarments, be our guest if you feel more comfortable nude, you may undress completely and position your body under the sheet. Therapists are trained to properly drape your body to protect your modesty and thelrs."
+		}, {
+			"title": "What about parking?",
+			"content": "When booking, we ask that you provide detailed parking fomation. If our therapist is unable to find free parking, or none is avallable in your area you will be expected to reimburse the therapist for ary parkiscaa incurred."
+		}, {
+			"title": "What is Mobile Massage's cancellation policy?",
+			"content": "You may cancel or reschedule your appointment up to 1hour before the appointment time with no penalty",
+			"list":[
+				{"li":"If you reschedule with less than 1hour's notice, you will be charged a $35/￡25 fee*"},
+				{"li":"If you reschedule with less than 2hour's notice, you will be charged a $45/￡35 fee*"},
+				{"li":"If you reschedule with less than 3hour's notice, you will be charged a $55/￡45 fee*"},
+				{"li":"If you reschedule with less than 5hour's notice, you will be charged a $65/￡75 fee*"}
+				
+			]
+		}, {
+			"title": "Does Molile Massage accept insurance?",
+			"content": "Mobile massages does not accept insurance as a form of payment . however , some insurance companies will allow clients to self-claim and file for reimbursement."
+		}, {
+			"title": "Do I need my own massage table?",
+			"content": "There's  no need for your own massage table. Our therapists bring the massage table, clean sheets, oils, and music to create the full massage experience."
+		}, {
+			"title": "Do I need my own sheets for the message table?",
+			"content": "Mobile Massage therapists always come prepared with fresh linens, however you may use your own."
+		}, {
+			"title": "You're not in my city!Can I still get a Mobile Massage?",
+			"content": "We're expanding each day! Check back in here to see if Mobile Massage has arrived in your city."
+		}
+	],
+	"THERAPIST": [{
+                 "name": "Rose",
+                 "imgsrc": "../img/rose-d.PNG",
+                 "massage": "Rose immediately puts you at ease with her cheerful smile,calm approach & friendly personality.With over 3years of experience from Latvia where she focused on both beauty and massage treatments,she s now massaging London better with us as she loves London and always enjoyed doing massages more than beauty treatments.When you just fancy melting away from the rest of the world for a blissful,no fuss,real pampering treat from head to toe,we recommend you book a session with Rose!!"
+    },{
+                 "name": "Susan",
+                 "imgsrc": "../img/susan-d.PNG",
+                 "massage": "Susan has a deep passion for relaxing and rejuvenating people through her excellent massages.Her naturally warm,clam and flowing touch will unwind you into a state of bliss,or，if you wish，Susan can instead work firmer into your muscles for a more invigorating deeper session.Holistic massage is about the whole you,so enjoy her listening skills too - feel free to chat away during your session or remain totally silent if you prefer.Friendly,reliable,on time and a massage not to be missed."
+    },{
+                 "name": "Anne",
+                 "imgsrc": "../img/Anne-d.PNG",
+                 "massage": "Anne loves massaging because seeing people feel better and happier after her treatment makes her smile.Using her warm hands，Anne will give you an massage which is both relaxing and also as strong as you like.She can apply extra deep pressure with long flowing forearm strokes which really get into your muscles.Emses has lots of energy and can happily do a really long treatment at full throttle without tiring out.For those of you who love a strong and active yet smooth and graceful massages,Anne the therapist to try!"
+    },{
+                 "name": "Piper",
+                 "imgsrc": "../img/piper-d.PNG",
+                 "massage": "Hand over to Piper,a highly skilled therapist for a magnificent health treat.She combines several techniques to create a totally captivating & unique massage.Beginning with softer strokes to prepare and warm you,Piper then utilises intense deep tissue techniques to squeeze out and release toxins thus reviving your muscles.She continuously adjusts her massage to adapt to your body's signals.To top it all off,Piper has a really lovely personality and creates a feeling of total calm from the start.Highly recommend if you want a deep and wonderful massage."
+    },{
+                 "name": "Carol",
+                 "imgsrc": "../img/carol-d.PNG",
+                 "massage": "Carol has a really lovely,calm and relaxed approach which immediately makes you comfortable.Combining two of the most popular international styles into one excellent treatment，Caol's massage is both deep and relaxing at the same time.Reliable，dedicated and polite in manner,Carol server up a truly excellent holistic massage.Her wish is to make her clients feel better and we are confident she will achieve that with your booking!Treat yourself to a totally soothing deep tissue massage today."
+    },{
+                 "name": "Lisa",
+                 "imgsrc": "../img/lisa-d.PNG",
+                 "massage": "Lisa warms your body with rhythmic,gradual,presses and applies fine oils to provide you with a luxurious，deep，holistic treatment personalised for you.You will enjoy warm，focused and confident touches starting from your legs and flowing naturally onto your other muscles throughout the massage.This technique achieves an excellent all-over body massage which deeply works and relaxes each muscle group individually whilst being seamless and smooth innature.Treat yourself to a truly excellent mobile treatment and true bliss！"
+    },{
+                 "name": "Josie",
+                 "imgsrc": "../img/josie-d.PNG",
+                 "massage": "Our smiling therapist Josie has loads of experience having previously worked in a Hungarian massage spa for over 4years.Josie has a very flowing style，starting with your feet and moving upwards.Initial softer strokes are designed to warm your muscles, end then deeper massage menipulation strokes flow expertly along your body ,targeting tight spots directly for additional remedial relief. This is an excellent heed to toe message which is graceful and elegent allowing you to relax but also deep, thus easing tenion, reducing stress and messaging you into better health!"
+    },{
+                 "name": "Kate",
+                 "imgsrc": "../img/kate-d.PNG",
+                 "massage": "Confident, experienced and smiley! Kate qualified as a medical masseur in Hungary and worked in an excellent spa there. She is highly skilled end tops that off by having a true passion for massage. From relaxing to deeper deep and passive stretching, Kate is sure to have a style that will work wonders for you. Lie back and hand over total control for the ultimate in home visit massage."
+    },{
+                 "name": "Chloe",
+                 "imgsrc": "../img/chloe-d.PNG",
+                 "massage": "Chloe is passionate about massage her specialist area is oil based Ayurvedic Yoga style treatments. Using a combination of oil massage techniques and yoga techniques, Chloewill balance your elements, improve circulation and release toxins. Deeply satisfying yoga and thai stretches are used to help mobilise your joints and release deep tension in your muscles. If you are brave and interested in a pure and deep massage with a real difference from the rest, this is one to try!"
+    },{
+                 "name": "Alice",
+                 "imgsrc": "../img/alice-d.PNG",
+                 "massage": "Highly skilled in a wide range of styles, your message with Alice will commence with her calming nature end warming touch before progressing into deep,thorough strokes which flow expertly up and down your body. Prepare yourself for an intense feeling of tranquility and relaxation whilst also enjoying a really deep massage into each muscle group. Deep & relaxing to the extreme! Her passion for massage,nature and skills make Alice an excellent therapist."
+    },{
+                 "name": "Maria",
+                 "imgsrc": "../img/maria-d.PNG",
+                 "massage": "Maria  loves seeing the immediate  beneficial  relief that deep tissue massage can bring to her clients aches and pains. In fact it wes deep tissue message which inspired Mariato become a massage therapist in the first place! She is also a firm believer that the best massages incorporate good energy and commitment and this is clear when you receive her treatment. Message makes Maria feel better ... even though she is doing the treatment ... a wonderful philosophy!"
+    },{
+                 "name": "Sam",
+                 "imgsrc": "../img/sam-d.PNG",
+                 "massage": "Sam's expertise in massage showc as soon ac she starts your treatment. Her style is flowing in nature, with circular movementc effortlessly mixed with deeply relaxing presses. Sam gradually movec her message along your body, tracing each muscle group precisely and thoroughly. You will feel a deep and instant relaxation in each of these areas before she moves on. Both her hands work closely together in harmony, interweaving and applying deeper pressure exactly where you need it most."
+    },{
+                 "name": "Lara",
+                 "imgsrc": "../img/lara-d.PNG",
+                 "massage": "A charming and friendly personality coupled with a magnificent massage from warm Hungarian hands, Lara is sure to make your aches, pains and stresses seem like they were never even there! Melinda's sessions start with warm relaxing, flowing, touches of a classic Swedish style massage and then progress, if you wish, into a more intensive, deeper ticsue treatment, but retain the lovely flowing nature throughout. Lara qualified in Hungary and really loves massaging people better all around London!"
+    },{
+                 "name": "Tia",
+                 "imgsrc": "../img/tia-d.PNG",
+                 "massage": "Tia is keen to ensure you enjoy the very best treatment she can provide, so puts her heart and full energy into every massage treatment. Whether you need deep, intense massage techniques to revive and refresh your muscles or prefer a more soothing and softer touch to relax, Tia is sure to please. Tia has a friendly and very calm personality, thus creating the perfect atmosphere for you to enjoy your massage. An excellent and very reliable  therapist  providing  wonderful  treatments!"
+    },{
+                 "name": "Sarah",
+                 "imgsrc": "../img/sarah-d.PNG",
+                 "massage": "Warm hands and a caring personality, Sarah offers an excellent deep relaxation mazzage combining high-end clazzic and deep tizzue techniques with long, flowing relaxation strokez.Sarah trained at a premium Hungarian spa and qualified as a medical masseuse before bringing her amazing massage to you in London. Her lovely calm personality and enthusiasm to be reliable and organised makes her stress-butting massage all that much better."
+    },{
+                 "name": "Penelope",
+                 "imgsrc": "../img/penelope-d.PNG",
+                 "massage": "Take a deep breath, close your eyes, let Penelepo take complete control from her first touch. Lara is one of our most experienced therapists with a wide range of styles. From soft massages which send you to sleep,to intense deep tissue massages which revive you. Penelope is also happy to combine several techniques into one session. A happy, calm and friendly Hungarian personality with bags of skill, Lara has a magical ability to take you to Massage Heaven. You are in for a treat!"
+    },{
+                 "name": "Molly",
+                 "imgsrc": "../img/molly-d.PNG",
+                 "massage": "After repeatedly hearing how wonderful her massage was from friends end family in Budapest, Molly moved to London end has started as a mobile massage therapist! She offer you a truly brilliant oil-based massage, work-ing deeper into tight muscles whenever needed. Her passion for massage, calm personality and attentive caring nature ensure you will feel comfortable throughout your treatment and make her an excellent therapist In her spare time, Piro-ka enjoys travelling, hiking and sports."
+    },{
+                 "name": "Clara",
+                 "imgsrc": "../img/clara-d.PNG",
+                 "massage": "If you are looking for a really strong full-body message, which is warm, slow and expertly delivered, then Clara is the therapist for you! Clara, who has over 5 years of experience, progresses calmly across the contours of your body, in skilful flowing strokes. Both hands work each muscle group thoroughly and slowly, applying pressure point techniques in any tight spots. A super relaxation or rejuvenation message from an excellent and reliable therapist Total body relaxation expertly delivered."
+    },{
+                 "name": "Kylie",
+                 "imgsrc": "../img/kylie-d.PNG",
+                 "massage": "When we asked Kylie whet she would have done if she had not become a masseuse she replied that Nothing else! She love massage! And it shows. A dedicated, experienced massage therapist who knows what she is doing and does it with real skill, style and understanding. Confident, calm and caring Bernadett is able to massage you from strong and deep to soft and relaxing. In over four years of mobile massage therapy."
+    },{
+                 "name": "Lauren",
+                 "imgsrc": "../img/lauren-d.PNG",
+                 "massage": "Lauren believes no two people are the same and so a really good message comes from feeling end reacting to the different requirements of each person and their various muscles. She has very warm and engaging personality with a deep passion for message. Being physiotherapy trained and with extensive experience of working in a military hospital, Lauren is very comfortable doing a really deep message working right into your problematic areas, or if you prefer, she can of course do a softer relaxation massage melting away mental stresses."
+    }
+    ],
+	"STYLE": [{
+             "fontface": "&#xe61d;",
+             "headline": "Swedish",
+             "information": "A gentle technique, with long strokes, kneading, kneading, and circular ovements to relax and energize."
+    },{
+             "fontface": "&#xe602;",
+             "headline": "Deep tissue",
+             "information": "Utilizes slow, more forceful strokes to traget deep muscle layers and connective tissue."
+    },{
+             "fontface": "&#xe612;",
+             "headline": "Sports",
+             "information": "Targets muscle-tendon junctions to boost flexibility and endurance, while reducing muscle fatigue."
+    },{
+             "fontface": "&#xe725;",
+             "headline": "Pre-natal",
+             "information": "Lessens pregnancy discomfort, helping alleviate backaches, stiffness. leg cramps, headaches, and swelling."
+    },{
+             "fontface": "&#xe60a;",
+             "headline": "Couples Massages",
+             "information": "All modalities can be performed as couples massage. Order one therapist for back to back or two for simultaneous massage."
+    },{
+             "fontface": "&#xe601;",
+             "headline": "Thai Massage",
+             "information": "It is an ancient headling system that combines broad and targeted acupressure, stimulation and manipulation of energy lines called sen, and assisted yoga postures."
+    },{
+             "fontface": "&#xe622;",
+             "headline": "Relaxing",
+             "information": "Help de-stress and loosen up your body and is great for those who have had a hard working week or feel like treating themselves to some TLC!"
+    },{
+             "fontface": "&#xe677;",
+             "headline": "At Work",
+             "information": "Decrease stress, improve productivity, and build employee morale with in-office chair massage."
+    }
+    ]
+
+}

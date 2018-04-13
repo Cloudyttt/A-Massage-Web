@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Booking_4</title>
+<link rel="stylesheet" href="../lib/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="../lib/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../css/Booking_4.css">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="" rel="stylesheet">
+</head>
+<body>
+	<div class="top-bar">
+        <div class="bar-logo">Mobile</div>
+        <div class="bar-sign">sign In</div>
+        <div class="bar-item">
+            <ul>
+		      	<li><a href="../index.html">Home</a></li>
+              	<li><a href="booking1.html" class='active'>Booking</a></li>
+              	<li><a href="Therapist.html">Therapist</a></li>
+              	<li><a href="Styles.html">Styles</a></li>
+              	<li><a href="pricing.html">Pricing</a></li>
+              	<li><a href="FAQ.html">FAQ</a></li>
+              	<li><a href="contact.html">Contact Us</a></li>
+		    </ul> 
+        </div>
+        <div class="bar-info">
+        	<i class="iconfont">&#xe635;</i>
+            <ul class="mobile-item" >
+              	<li class="mobile-menu">
+              		<div class="bar-logo">Mobile</div>
+              	<i class="iconfont">&#xe615;</i>
+              	</li>
+		      	<li><a href="../index.html" >Home</a></li>
+                <li><a href="booking1.html" class='active'>Booking</a></li>
+                <li><a href="Therapist.html">Therapist</a></li>
+                <li><a href="Styles.html">Styles</a></li>
+                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="FAQ.html">FAQ</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="login.html">Login</a></li>
+		    </ul> 
+        </div>		
+	</div>
+	<div class="container">
+		<div class="top-list">
+			<div class="top-list-menu col-md-3 col-xs-3"><a class="otherCandidate" href="booking1.html"><strong>1</strong></a></div>
+			<div class="top-list-menu col-md-3 col-xs-3"><a class="otherCandidate" href="booking2.html"><strong>2</strong></a></div>
+			<div class="top-list-menu col-md-3 col-xs-3"><a class="otherCandidate" href="Booking_3.html"><strong>3</strong></a></div>
+			<div class="top-list-menu col-md-3 col-xs-3 top-list-menu-checked"><strong>4</strong></div>
+		</div> 
+		<div class="top-prompt">
+			Location
+		</div>
+		<div class="account-content">
+			<div class="account-info col-md-12" id="account-info-laction">
+				<label for="sreetAddress" class="account-info-label">Street address</label>
+		    	<input type="text" class="form-control" id="streetAddress" placeholder="Please input your street address">
+				<label for="sreetAddress2" class="account-info-label">Street address 2</label>
+		    	<input type="text" class="form-control" id="streetAddress2" placeholder="Apt/Floot/Sulte">
+				<div class="row">
+					<div class="col-md-6">
+						<label for="stateProvince" class="account-info-label">State/Province</label>
+			    		<input type="text" class="form-control" id="stateProvince">						
+					</div>
+					<div class="col-md-6">
+						<label for="zipPostCode" class="account-info-label">Zip/Post code</label>
+			    		<input type="text" class="form-control" id="zipPostCode">						
+					</div>
+				</div>
+				<label for="parkingInstructions" class="account-info-label">Parking instructions</label>
+				<textarea class="form-control" rows="6" type="text" id="parkingInstructions" placeholder="">
+				</textarea> 
+			</div>
+			<div class="account-info col-md-12" id="account-info-checkOut">
+				<label for="nameOnCard" class="account-info-label">Name on card</label>
+		    	<input type="text" class="form-control" id="nameOnCard" placeholder="">
+				<label for="creditCardNumber" class="account-info-label">Credit card number</label>
+		    	<input type="text" class="form-control" id="creditCardNumber" placeholder="Apt/Floor/Sulte">		
+				<div class="row">
+					<div class="col-md-6">
+						<label for="expirationDate" class="account-info-label">Expiration Date</label>
+			    		<input type="text" class="form-control" id="expirationDate" placeholder="MM/YY">
+					</div>
+					<div class="col-md-6">
+						<label for="securityCode" class="account-info-label">Security Code</label>
+			    		<input type="text" class="form-control" id="securityCode" placeholder="">					
+					</div>
+				</div>
+				<label for="billingZip" class="account-info-label">Billing Zip/Postal code</label>
+		    	<input type="text" class="form-control" id="billingZip" placeholder="">
+				<div class="row ">
+					<div class="col-md-6">
+						<label for="promoCode" class="account-info-label">Gift/Promo code</label>
+			    		<input type="text" class="form-control" id="promoCode" placeholder="MM/YY">					
+					</div>
+					<div class="col-md-6">
+			    		<button class="form-control apply-btn">APPLY</button>
+					</div>
+				</div>
+				<label for="orderSummary" class="account-info-label">Order Summary</label>
+				<table class="table table-bordered">
+				  	<tbody>
+					    <tr class="info">
+					      	<td>05/29/2017 5:15 PM</td>
+					    </tr>
+					    <tr class="info">
+					      	<td>Single Session</td>
+					    </tr>
+					    <tr class="info">
+					      	<td>Swedish/60 min/Either Therapist</td>
+					    </tr>
+					    <tr class="info">
+					      	<td>Xytftd street, 20066</td>
+					    </tr>
+				   	</tbody>				
+				</table>
+				<div class="text-success account-info-summary-info">
+					<div class="col-md-3 col-xs-3">Total</div>
+					<div class="col-md-5 col-sm-5 col-sm-offset-4 col-xs-6 col-md-offset-4 col-xs-offset-3"><i class="fa fa-gbp" aria-hidden="true"></i>&nbsp;99</div>
+				</div>
+			</div>
+			<div class="book-botton">
+				<button class="btn book-botton-font" id="bookingBotton">
+					<!-- <a href="success.html"></a> -->BOOK MY MASSAGE
+				</button>
+			</div>
+			<div class="text-muted back-botton">
+				<a href="Booking_3.html" class="back-botton-a ">
+					<i class="fa fa-chevron-left" aria-hidden="true"></i>&nbsp;&nbsp;Back
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+	    <div class="bottom-bar-content">
+	    	<span class="bottom-up">Mobile Massages</span>
+	    	<span class="bottom-down">
+	    		@2017 MOBILE MASSAGES<br>
+	    		TERMS & CONDITIONS<br>
+	    	    PRIVACY POLICY
+	    	</span>
+	    </div>
+	</div>
+</body>
+<script src='../lib/jquery.js' data-analytics-region="learn more"></script>
+<script src='../lib/bootstrap-3.3.7-dist/js/bootstrap.min.js' data-analytics-region="download"></script> 
+<script type="text/javascript" src="../js/Booking_4.js"></script>  
+</html>
